@@ -16,35 +16,13 @@ This app helps you stay focused by cycling between focused work sessions and sho
 
 ---
 
-## 🖥️ Screenshot (optional)
-
-
+## 🖥️ Screenshot
 
 ```
-![Pomodoro Timer Screenshot](./images/screenshot.png)
+![Pomodoro Timer Screenshot](./screenshot.png)
 ```
 
----
 
-## 📦 Installation
-
-Make sure you have Python 3 installed.
-Clone this repository:
-
-```bash
-git clone https://github.com/YourUsername/pomodoro.git
-cd pomodoro
-```
-
-Install requirements (if applicable):
-
-```bash
-pip install -r requirements.txt
-```
-
-If you are not using external packages, you can skip that step.
-
----
 
 ## ▶️ How to Run
 
@@ -65,10 +43,9 @@ pomodoro/
 │
 ├── main.py               # main application
 ├── README.md             # documentation
-└── assets/ (optional)    # icons, images, fonts
+└── screenshot.png        # image
+└── tomato.png            # image
 ```
-
----
 
 ## ⚙️ How It Works
 
@@ -90,7 +67,7 @@ LONG_BREAK_MIN = 20
 
 ---
 
-## ✅ Future Improvements (Ideas)
+## ✅ Future Improvements
 
 * ✅ Add sound notifications
 * ✅ Add dark mode UI theme
