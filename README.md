@@ -18,11 +18,7 @@ This app helps you stay focused by cycling between focused work sessions and sho
 
 ## 🖥️ Screenshot
 
-```
-![Pomodoro Timer Screenshot](./screenshot.png)
-```
-
-
+<img src="screenshot.png" width="400">
 
 ## ▶️ How to Run
 
@@ -86,3 +82,4 @@ For major changes, please open an issue first to discuss what you’d like to ad
 ## 📄 License
 
 MIT License – feel free to modify and reuse.
+```
